@@ -4,7 +4,7 @@ Donate link: http://ilmdesigns.com/portfolio_page/square-thumbnails-plugin/
 Tags: crop, resize, thumbnails, square thumbnails, square no cropping, woocommerce, product image
 Requires at least: 3.5
 Tested up to: 4.8
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,3 +50,5 @@ Here is a screen shot with an uploaded image when the plugin is activated. You c
 * Initial release.
 
 
+= 1.1 =
+* Fix bug, remove empty styles & add nonce.

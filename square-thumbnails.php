@@ -16,9 +16,8 @@
  * Plugin Name:       Square Thumbnails
  * Plugin URI:        http://ilmdesigns.com/portfolio_page/square-thumbnails-plugin/
  * Description:       Making Square Thumbnails without cropping the image.  
- * Version:           1.0.0
- * Author:            ILMDESIGNS
- * Author URI:        http://ilmdesigns.com/
+ * Version:           1.1.0
+ * Author:            ILMDESIGNS & Jason Bolger
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       square-thumbnails
